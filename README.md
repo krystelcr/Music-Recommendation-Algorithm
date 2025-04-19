@@ -77,9 +77,6 @@ Furthermore, if you notice that some of these columns have strong correlation an
 Save this dataframe as a new csv file to be used in the next step.
 
 
-
-
-
 Model creation, hyperparameter search, and model evaluation
 Once you have cleaned and reduced this dataset, we will then create a notebook where we will implement a KMeans Clustering or any other clustering algorithm of your choice on your training dataset.
 After initial training, evaluate the best number of clusters using one of the cluster identification techniques.
